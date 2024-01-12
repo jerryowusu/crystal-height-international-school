@@ -1,2 +1,2 @@
-# crystal-height-international-school
-a school website created for crystal height international school
+# crystal height international school
+will be updated soon
